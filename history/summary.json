@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/sms.eursc.eu",
     "slug": "sms",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
-    "time": 1341,
-    "timeDay": 1250,
-    "timeWeek": 1341,
-    "timeMonth": 1341,
-    "timeYear": 1341,
-    "dailyMinutesDown": {
-      "2021-10-19": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1354,
+    "timeDay": 1520,
+    "timeWeek": 1354,
+    "timeMonth": 1354,
+    "timeYear": 1354,
+    "dailyMinutesDown": {}
   },
   {
     "name": "STS Login Page",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 707,
-    "timeDay": 520,
-    "timeWeek": 707,
-    "timeMonth": 707,
-    "timeYear": 707,
+    "time": 784,
+    "timeDay": 1094,
+    "timeWeek": 784,
+    "timeMonth": 784,
+    "timeYear": 784,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 132,
-    "timeDay": 81,
-    "timeWeek": 132,
-    "timeMonth": 132,
-    "timeYear": 132,
+    "time": 164,
+    "timeDay": 293,
+    "timeWeek": 164,
+    "timeMonth": 164,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 94,
-    "timeDay": 65,
-    "timeWeek": 94,
-    "timeMonth": 94,
-    "timeYear": 94,
+    "time": 102,
+    "timeDay": 135,
+    "timeWeek": 102,
+    "timeMonth": 102,
+    "timeYear": 102,
     "dailyMinutesDown": {}
   }
 ]
