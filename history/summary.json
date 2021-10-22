@@ -4,18 +4,20 @@
     "url": "https://sms.eursc.eu",
     "icon": "https://favicons.githubusercontent.com/sms.eursc.eu",
     "slug": "sms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1335,
-    "timeDay": 950,
-    "timeWeek": 1335,
-    "timeMonth": 1335,
-    "timeYear": 1335,
-    "dailyMinutesDown": {}
+    "time": 2360,
+    "timeDay": 5753,
+    "timeWeek": 2360,
+    "timeMonth": 2360,
+    "timeYear": 2360,
+    "dailyMinutesDown": {
+      "2021-10-22": 0
+    }
   },
   {
     "name": "STS Login Page",
