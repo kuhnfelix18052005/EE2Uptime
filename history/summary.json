@@ -22,7 +22,7 @@
     "url": "https://sts.eursc.eu/adfs/ls/",
     "icon": "https://favicons.githubusercontent.com/sts.eursc.eu",
     "slug": "sts-login-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 667,
     "timeMonth": 737,
     "timeYear": 737,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-28": 0
+    }
   },
   {
     "name": "Office365",
